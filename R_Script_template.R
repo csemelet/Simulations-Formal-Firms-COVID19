@@ -2,7 +2,7 @@
 # Author: Camille Semelet, csemelet@worldbank.org 
 
 
-########## SIMULATION OF COVID 19 IMPACT ON FORMAL FIRMS #######
+########## SIMULATION OF COVID 19 IMPACT ON FORMAL FIRMS #######]]]
 
 # This Script is written to read already cleanned tax data and analyse the impact of COVID 19 on formal firms
 # It produces three figures (five graphs in total) and one table of statistics
